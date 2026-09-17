@@ -70,4 +70,86 @@ footer p{margin-bottom:12px;}
 footer a{color:var(--gold-light);margin:0 6px;display:inline-block;padding:8px 4px;min-height:44px;}
 footer .copyright{margin-top:20px;padding-top:20px;border-top:1px solid var(--border);font-size:13px;}
 .sticky-wa{position:fixed;bottom:20px;right:20px;background:#25d366;color:#fff;width:64px;height:64px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:30px;box-shadow:0 8px 25px rgba(37,211,102,0.5);z-index:999;animation:pulse 2s ease-in-out infinite;}
-@media (min
+@media (min-width:640px){.steps{grid-template-columns:1fr 1fr;}}
+@media (min-width:900px){h1{font-size:44px;}section h2{font-size:32px;}}
+@media (max-width:480px){h1{font-size:26px;}}
+</style>
+</head>
+<body>
+<header>
+<a href="/" class="logo"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 19H4.815a1.83 1.83 0 0 1-1.57-.881 1.785 1.785 0 0 1-.004-1.784L7.196 9.5"/><path d="M11 19h8.203a1.83 1.83 0 0 0 1.556-.89 1.784 1.784 0 0 0 0-1.775l-1.226-2.12"/><path d="m14 16-3 3 3 3"/><path d="M8.293 13.596 7.196 9.5 3.1 10.598"/><path d="m9.344 5.811 1.093-1.892A1.83 1.83 0 0 1 11.985 3a1.784 1.784 0 0 1 1.546.888l3.943 6.843"/><path d="m13.378 9.633 4.096 1.098 1.097-4.096"/></svg>RIYADH SCRAP SOLUTIONS</a>
+<a href="tel:+966574712106" class="phone-btn">📞 +966 57 471 2106</a>
+</header>
+<div class="breadcrumb"><a href="/">Home</a><span>›</span>Sell Scrap Riyadh</div>
+<main>
+<section class="hero">
+<div class="badge fade-up">💵 GET INSTANT CASH FOR YOUR SCRAP</div>
+<h1 class="fade-up">Sell Scrap in Riyadh — <span class="highlight">Best Prices + Free Pickup</span></h1>
+<p class="subtitle fade-up">Sell your scrap in Riyadh and get instant cash. We buy copper, aluminum, steel, cars, AC units & more. <strong>Free pickup across Riyadh.</strong></p>
+<a href="tel:+966574712106" class="btn btn-call">📞 Get Instant Quote</a>
+<a href="https://wa.me/966574712106" class="btn btn-whatsapp">💬 WhatsApp Us</a>
+</section>
+<section>
+<h2>Sell Your Scrap in Riyadh Today</h2>
+<p>Do you have scrap metal, old cars, AC units, or industrial waste taking up space? <strong>Sell it to Riyadh Scrap Solutions</strong> and turn it into instant cash. We buy all types of scrap across Riyadh at the best prices in the city.</p>
+<p>Whether you have a few kilograms of copper wire or an entire factory's worth of industrial scrap, we come to you — <strong>free of charge</strong>. Our team weighs in front of you and pays cash on the spot.</p>
+<p>Selling scrap has never been easier. Call us today and get paid for what you'd otherwise throw away.</p>
+</section>
+<section style="background:var(--green-card);">
+<h2>How to Sell Scrap in Riyadh</h2>
+<p class="section-sub">Simple 4-step process — from call to cash in under 24 hours.</p>
+<div class="steps">
+<div class="step"><div class="step-num">1</div><div><h3>Call or WhatsApp</h3><p>Contact us at +966 57 471 2106 with details of your scrap.</p></div></div>
+<div class="step"><div class="step-num">2</div><div><h3>Get Free Quote</h3><p>We give you an instant price based on today's market rates.</p></div></div>
+<div class="step"><div class="step-num">3</div><div><h3>Free Pickup</h3><p>Our team comes to your location anywhere in Riyadh — free.</p></div></div>
+<div class="step"><div class="step-num">4</div><div><h3>Get Paid Cash</h3><p>We weigh in front of you and pay you cash on the spot.</p></div></div>
+</div>
+</section>
+<section class="why">
+<h2>Why Sell to Us?</h2>
+<ul>
+<li>Best scrap prices in Riyadh — updated daily</li>
+<li>Free pickup from any location in Riyadh</li>
+<li>Instant cash payment — no delays</li>
+<li>Honest weighing in front of you</li>
+<li>We buy any quantity — small or large</li>
+<li>24/7 service — call anytime</li>
+<li>Professional, licensed & trusted team</li>
+</ul>
+</section>
+<section>
+<h2>Frequently Asked Questions</h2>
+<div class="faq-item"><h3>Where can I sell scrap in Riyadh?</h3><p>Sell your scrap to Riyadh Scrap Solutions. We offer free pickup and instant cash anywhere in Riyadh.</p></div>
+<div class="faq-item"><h3>How much can I get for my scrap?</h3><p>Scrap prices depend on metal type and weight. Call +966 57 471 2106 for today's rates.</p></div>
+<div class="faq-item"><h3>Do you offer free pickup?</h3><p>Yes, we offer free pickup anywhere in Riyadh when you sell to us.</p></div>
+<div class="faq-item"><h3>How fast do I get paid?</h3><p>You get paid instantly after we weigh the scrap in front of you.</p></div>
+</section>
+<section class="related">
+<h2>Explore More</h2>
+<div class="related-links">
+<a href="/">🏠 Home</a>
+<a href="/scrap-buyer-in-riyadh/">🥇 Scrap Buyer</a>
+<a href="/scrap-dealer-riyadh/">🏪 Scrap Dealer</a>
+<a href="/scrap-metal-riyadh/">♻️ Scrap Metal</a>
+<a href="/copper/">🥉 Copper</a>
+<a href="/cars/">🚗 Cars</a>
+<a href="/prices/">💰 Prices</a>
+<a href="/contact/">📞 Contact</a>
+</div>
+</section>
+<section class="cta">
+<h2>Ready to Sell Your Scrap?</h2>
+<p>Call now for a free quote and same-day pickup.</p>
+<a href="tel:+966574712106" class="btn btn-call">📞 Call +966 57 471 2106</a>
+<a href="https://wa.me/966574712106" class="btn btn-whatsapp">💬 WhatsApp Us</a>
+</section>
+</main>
+<footer>
+<div class="footer-logo">♻️ RIYADH SCRAP SOLUTIONS</div>
+<p>Professional scrap buyers serving all areas of Riyadh, Saudi Arabia 🇸🇦</p>
+<p><a href="/">Home</a><a href="/sell-scrap-riyadh/">Sell Scrap</a><a href="/scrap-buyer-in-riyadh/">Scrap Buyer</a><a href="/contact/">Contact</a></p>
+<p style="margin-top:15px;font-size:13px;">© 2026 Riyadh Scrap Solutions. All rights reserved.</p>
+</footer>
+<a href="https://wa.me/966574712106" class="sticky-wa" target="_blank" rel="noopener" aria-label="WhatsApp">💬</a>
+</body>
+</html>

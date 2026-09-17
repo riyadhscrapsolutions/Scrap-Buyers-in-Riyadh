@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sell Scrap in Riyadh | Get Best Prices | Free Pickup & Cash</title>
+<meta name="description" content="Sell your scrap in Riyadh at the best prices. We buy copper, aluminum, steel, cars, AC units & more. Free pickup + instant cash. Call +966 57 471 2106.">
+<meta name="keywords" content="sell scrap Riyadh, sell scrap metal Riyadh, sell copper Riyadh, sell aluminum Riyadh, sell old car Riyadh">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://scrap.riyadscrapsolutions.com/sell-scrap-riyadh/">
+<meta name="geo.region" content="SA-01"><meta name="geo.placename" content="Riyadh">
+<meta property="og:title" content="Sell Scrap in Riyadh | Best Prices & Free Pickup">
+<meta property="og:description" content="Sell your scrap in Riyadh for instant cash. Free pickup anywhere in Riyadh.">
+<meta property="og:url" content="https://scrap.riyadscrapsolutions.com/sell-scrap-riyadh/">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>♻️</text></svg>">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Service","serviceType":"Scrap Buying","name":"Sell Scrap in Riyadh","provider":{"@type":"LocalBusiness","name":"Riyadh Scrap Solutions","telephone":"+966574712106","url":"https://scrap.riyadscrapsolutions.com"},"areaServed":{"@type":"City","name":"Riyadh"}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Where can I sell scrap in Riyadh?","acceptedAnswer":{"@type":"Answer","text":"Sell your scrap to Riyadh Scrap Solutions. We offer free pickup and instant cash anywhere in Riyadh."}},{"@type":"Question","name":"How much can I get for my scrap?","acceptedAnswer":{"@type":"Answer","text":"Scrap prices depend on metal type and weight. Call +966 57 471 2106 for today's rates."}}]}
+</script>
+<style>
+:root{--gold:#d4af37;--gold-light:#f4d47c;--green-dark:#071e13;--green-card:#0f2d1e;--text:#f0f4f1;--text-dim:#c8d4ce;--border:#1e4a32;}
+*{margin:0;padding:0;box-sizing:border-box;font-family:'Segoe UI',system-ui,-apple-system,sans-serif;}
+html{scroll-behavior:smooth;}body{background:var(--green-dark);color:var(--text);line-height:1.7;}a{color:inherit;text-decoration:none;}
+@keyframes fadeUp{from{opacity:0;transform:translateY(30px);}to{opacity:1;transform:translateY(0);}}
+@keyframes glow{0%,100%{box-shadow:0 0 20px rgba(212,175,55,0.3);}50%{box-shadow:0 0 35px rgba(212,175,55,0.6);}}
+@keyframes pulse{0%,100%{transform:scale(1);}50%{transform:scale(1.05);}}
+.fade-up{animation:fadeUp 0.8s ease-out both;}
+header{background:rgba(7,30,19,0.95);backdrop-filter:blur(10px);padding:14px 20px;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--border);position:sticky;top:0;z-index:100;}
+.logo{display:flex;align-items:center;gap:10px;font-size:13px;font-weight:700;letter-spacing:1.5px;color:var(--gold);padding:10px 0;min-height:44px;}
+.logo svg{width:28px;height:28px;}
+.phone-btn{background:linear-gradient(135deg,var(--gold),var(--gold-light));color:var(--green-dark);padding:12px 22px;border-radius:30px;font-size:14px;font-weight:700;white-space:nowrap;min-height:44px;display:inline-flex;align-items:center;}
+.breadcrumb{padding:15px 20px;font-size:13px;color:var(--text-dim);max-width:1100px;margin:0 auto;}
+.breadcrumb a{color:var(--gold);}.breadcrumb span{margin:0 8px;}
+.hero{padding:40px 20px 50px;text-align:center;background:radial-gradient(ellipse at top,rgba(212,175,55,0.15) 0%,var(--green-dark) 70%);}
+.badge{display:inline-flex;align-items:center;gap:6px;background:rgba(212,175,55,0.15);border:1px solid rgba(212,175,55,0.5);padding:10px 22px;border-radius:30px;font-size:13px;letter-spacing:1px;font-weight:700;margin-bottom:25px;color:var(--gold-light);}
+h1{font-size:34px;font-weight:800;margin-bottom:20px;line-height:1.2;}
+h1 .highlight{background:linear-gradient(135deg,var(--gold),var(--gold-light));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;}
+.subtitle{font-size:16px;color:var(--text-dim);margin-bottom:35px;max-width:600px;margin-left:auto;margin-right:auto;}
+.btn{display:block;width:100%;max-width:320px;margin:15px auto;padding:18px 24px;border-radius:50px;font-size:16px;font-weight:700;text-align:center;transition:all 0.3s;min-height:56px;}
+.btn-call{background:linear-gradient(135deg,var(--gold),var(--gold-light));color:var(--green-dark);animation:glow 3s ease-in-out infinite;}
+.btn-whatsapp{background:transparent;color:var(--text);border:2px solid var(--border);}
+.btn-whatsapp:hover{border-color:var(--gold);color:var(--gold);}
+section{padding:60px 20px;}
+section h2{font-size:26px;margin-bottom:12px;text-align:center;font-weight:800;}
+.section-sub{text-align:center;color:var(--text-dim);margin-bottom:40px;font-size:15px;max-width:600px;margin-left:auto;margin-right:auto;}
+section p{color:var(--text-dim);max-width:750px;margin:0 auto 15px;text-align:center;}
+.steps{display:grid;grid-template-columns:1fr;gap:15px;max-width:600px;margin:0 auto;}
+.step{background:var(--green-card);border-left:3px solid var(--gold);padding:22px;border-radius:12px;display:flex;gap:15px;align-items:flex-start;}
+.step-num{background:linear-gradient(135deg,var(--gold),var(--gold-light));color:var(--green-dark);width:40px;height:40px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:800;flex-shrink:0;}
+.step h3{color:var(--gold);margin-bottom:5px;font-size:16px;}
+.step p{text-align:left;margin:0;font-size:14px;}
+.why{background:var(--green-card);}
+.why ul{list-style:none;max-width:550px;margin:0 auto;display:grid;gap:12px;}
+.why li{padding:15px 20px;font-size:15px;background:var(--green-dark);border:1px solid var(--border);border-radius:12px;display:flex;align-items:center;gap:12px;}
+.why li::before{content:'✓';color:var(--gold);font-weight:800;font-size:18px;flex-shrink:0;}
+.faq-item{max-width:750px;margin:0 auto 12px;background:var(--green-card);border:1px solid var(--border);border-radius:12px;padding:20px;}
+.faq-item h3{color:var(--gold);margin-bottom:10px;font-size:16px;}
+.faq-item p{text-align:left;margin:0;font-size:14px;}
+.related{text-align:center;background:var(--green-card);}
+.related-links{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-top:20px;}
+.related-links a{background:var(--green-dark);border:1px solid var(--border);padding:14px 24px;border-radius:30px;font-size:14px;font-weight:600;transition:all 0.3s;min-height:44px;display:inline-flex;align-items:center;}
+.related-links a:hover{border-color:var(--gold);color:var(--gold);}
+.cta{text-align:center;background:linear-gradient(135deg,var(--green-card),var(--green-dark));border-top:1px solid var(--border);border-bottom:1px solid var(--border);}
+.cta h2{color:var(--gold);}
+footer{background:#030d08;padding:40px 20px 100px;text-align:center;font-size:14px;color:var(--text-dim);}
+footer .footer-logo{color:var(--gold);font-size:16px;font-weight:800;letter-spacing:2px;margin-bottom:15px;}
+footer p{margin-bottom:12px;}
+footer a{color:var(--gold-light);margin:0 6px;display:inline-block;padding:8px 4px;min-height:44px;}
+footer .copyright{margin-top:20px;padding-top:20px;border-top:1px solid var(--border);font-size:13px;}
+.sticky-wa{position:fixed;bottom:20px;right:20px;background:#25d366;color:#fff;width:64px;height:64px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:30px;box-shadow:0 8px 25px rgba(37,211,102,0.5);z-index:999;animation:pulse 2s ease-in-out infinite;}
+@media (min

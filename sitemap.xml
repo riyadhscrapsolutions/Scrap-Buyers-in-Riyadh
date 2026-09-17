@@ -1,19 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://scrap.riyadscrapsolutions.com/</loc><priority>1.0</priority></url>
-  <url><loc>https://scrap.riyadscrapsolutions.com/copper/</loc><priority>0.9</priority></url>
-  <url><loc>https://scrap.riyadscrapsolutions.com/aluminum/</loc><priority>0.9</priority></url>
-  <url><loc>https://scrap.riyadscrapsolutions.com/brass/</loc><priority>0.9</priority></url>
-  <url><loc>https://scrap.riyadscrapsolutions.com/steel/</loc><priority>0.9</priority></url>
-  <url><loc>https://scrap.riyadscrapsolutions.com/cars/</loc><priority>0.9</priority></url>
-  <url><loc>https://scrap.riyadscrapsolutions.com/ac-units/</loc><priority>0.9</priority></url>
-  <url><loc>https://scrap.riyadscrapsolutions.com/batteries/</loc><priority>0.9</priority></url>
-  <url><loc>https://scrap.riyadscrapsolutions.com/demolition/</loc><priority>0.9</priority></url>
-  <url><loc>https://scrap.riyadscrapsolutions.com/factory/</loc><priority>0.9</priority></url>
-  <url><loc>https://scrap.riyadscrapsolutions.com/construction/</loc><priority>0.9</priority></url>
-  <url><loc>https://scrap.riyadscrapsolutions.com/recycling/</loc><priority>0.8</priority></url>
-  <url><loc>https://scrap.riyadscrapsolutions.com/prices/</loc><priority>0.8</priority></url>
-  <url><loc>https://scrap.riyadscrapsolutions.com/blog/</loc><priority>0.7</priority></url>
-  <url><loc>https://scrap.riyadscrapsolutions.com/about/</loc><priority>0.6</priority></url>
-  <url><loc>https://scrap.riyadscrapsolutions.com/contact/</loc><priority>0.6</priority></url>
+  <!-- Homepage -->
+  <url><loc>https://scrap.riyadscrapsolutions.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+
+  <!-- Main Keyword Pages -->
+  <url><loc>https://scrap.riyadscrapsolutions.com/scrap-buyer-in-riyadh/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/scrap-metal-riyadh/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/metal-scrap-buyer-riyadh/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/scrap-dealer-riyadh/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/sell-scrap-riyadh/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/scrap-buyers-near-me/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- Metal Service Pages -->
+  <url><loc>https://scrap.riyadscrapsolutions.com/copper/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/aluminum/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/brass/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/steel/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/cars/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/ac-units/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/batteries/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/demolition/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- Specialty Pages -->
+  <url><loc>https://scrap.riyadscrapsolutions.com/construction/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/factory/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/recycling/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Info Pages -->
+  <url><loc>https://scrap.riyadscrapsolutions.com/prices/</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/blog/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/about/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://scrap.riyadscrapsolutions.com/contact/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 </urlset>
